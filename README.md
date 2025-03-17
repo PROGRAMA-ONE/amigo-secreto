@@ -40,7 +40,7 @@ El usuario debe agregar nombres mediante un campo de texto y un botón "Adiciona
 Puedes acceder al proyecto clonando el repositorio desde GitHub:
 
 ```bash
-
+https://github.com/PROGRAMA-ONE/amigo-secreto.git
 ```
 ## Tecnologías utilizadas
 - HTML
